@@ -1,0 +1,12 @@
+---
+title: "Group7-Shuffleboardd Pro"
+output: html_document
+---
+```{r}
+Group member: K. David Pearce, Shu-Yi Hsu, Yiwei Qi, Joellyn Heng, Alysandra J. Zhang
+date: "12/12/2019"
+```
+```{r}
+Video download: https://drive.google.com/file/d/11XiXrbYqn0Hcvgw8ICwrpV_AYYkZDVft/view?usp=sharing
+```
+
